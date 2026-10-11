@@ -32,3 +32,11 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
+
+.vercel
+node_modules
+dist
+build
+.env*
+*.local
+.next
